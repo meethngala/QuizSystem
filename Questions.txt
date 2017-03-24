@@ -1,0 +1,15 @@
+1,Which spell is an unforgivable curse in the Harry Potter series?,a. Expelliarmus,b. Crucio,c. Alohomora,d. Stupefy,b
+2,Which spell provides the only defense against Dementors?,a. Expelliarmus,b. Crucio,c. Expecto Patronum,d. Stupefy,c
+3,Who are the Muggle aunt and uncle that Harry must live with every summer?,a. Ned and Camilla Diddly,b. Ralph and Magnolia Dudley,c. Vernon and Petunia Dursley,d. Ned and Petunia Dursley,c
+4,Which of these Hogwarts professors teaches Transfiguration?,a. Snape,b. Sprout,c. McGonagall,d. Flitwick,c
+5,Who was Tom Marvolo Riddle?,a. The ghost of Sirius Black,b. Harry Potter's father,c. Voldemort,d. A Hogwarts Headmaster,c
+6,What's the only book in the Harry Potter series that doesn't feature Lord Voldemort?,a. The Sorcerer's Stone,b. The Chamber of Secrets,c. The Deathly Hallows,d. The Prisoner of Azkaban,d
+7,Who kills Dumbledore at the end of "The Half-Blood Prince"?,a. Draco Malfoy,b. Severus Snape,c. Lucius Malfoy,d. Sirius Black,b
+8,Who is the half blood Prince?,a. Draco Malfoy,b. Sirius Black,c. Lucius Malfoy,d. Severus Snape,d
+9,Which Deathly Hallow did Harry receive from Dumbledore?,a. Invisibility cloak,b. Elder wand,c. Polyjuice potion,d. Rejuvenation stone,a
+10,Which Weasley kid dies in the Battle for Hogwarts in Book 7?,a. Bill,b. George,c. Charlie,d. Fred,d
+11,Who is Harry's cousin?,a. Dudley Dursley,b. Ronald Weasley,c. Rubeus Hagrid,d. Neville Longbottom,a
+12,Who is Harry's brother-in-law?,a. Dudley Dursley,b. Ronald Weasley,c. Hagrid,d. Neville Longbottom,b
+13,How many children does Harry have?,a. None,b. 1,c. 2,d. 3,d
+14,Who was Harry's first Defense Against the Dark Arts professor?,a. Snape,b. Quirrell,c. McGonagall,d. Flitwick,b
+15,Which person was not an Animagus?,a. James Potter,b. Sirius Black,c. Remus Lupin,d. Petter Pettigrew,c

@@ -1,0 +1,5 @@
+questionNumber,description,choice1,choice2,choice3,choice4,Answer
+1,________ is the physical aspect of the computer that can be seen,Hardware,Software,Operating system,Application program,Hardware
+2,__________ is the brain of a computer,Hardware,CPU,Memory,Disk,CPU
+3,The speed of CPU is measured in __________,megabytes,gigabytes,megahertz,petabytes,megahertz
+4,"Which will legally declare, construct, and initialize an array?","int [] myList = {"1", "2", "3"};","int [] myList = (5, 8, 2);","int myList [] [] = {4,9,7,0};","int myList [] = {4, 3, 7};","int myList [] = {4, 3, 7};"
