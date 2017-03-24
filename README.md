@@ -8,5 +8,5 @@ Give the user a simple MCQ test from your Quiz table with 3 questions each time 
 
 Installation:
 1. Download the project and opne the application in Java compatible IDE
-2. Make sure the connecton to the Database is established. This one is in embeded mode
+2. Make sure the connection to the Database is established. This one is in embeded mode
 3. Run the project
